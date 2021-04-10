@@ -1,0 +1,41 @@
+.card-largura {
+    max-width: 18rem;
+}
+
+.imagem-carrossel-um{
+  height: 500px;
+  object-position: 0 20%;
+  object-fit: cover;
+}
+
+.imagem-carrossel-dois{
+  height: 500px;
+  object-position: 25 0;
+  object-fit: cover;
+}
+
+.fonte-titulo{
+  font-family: 'Satisfy', cursive;
+}
+
+.cor-especial {
+  color: pink;
+}
+
+.botao-cor-especial{
+  background-color: pink;
+  color: black;
+}
+
+.borda-cor-especial{
+  border-color: pink;
+}
+
+.card-posicao-imagem {
+    object-fit: cover;
+    height: 200px;
+}
+
+.footer{
+  background: pink;
+}
