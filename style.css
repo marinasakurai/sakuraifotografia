@@ -1,5 +1,5 @@
 .card-largura {
-    max-width: 18rem;
+  max-width: 18rem;
 }
 
 .imagem-carrossel-um{
@@ -32,8 +32,8 @@
 }
 
 .card-posicao-imagem {
-    object-fit: cover;
-    height: 200px;
+  object-fit: cover;
+  height: 200px;
 }
 
 .footer{
